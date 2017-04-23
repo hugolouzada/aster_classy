@@ -1,0 +1,5 @@
+https://github.com/typpo/asterank/blob/master/data/pipeline/out/deltav/computed_dv.csv
+
+
+ wc -l Asterank_computed_dv_20170408.csv
+730408 Asterank_computed_dv_20170408.csv

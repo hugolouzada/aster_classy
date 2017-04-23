@@ -1,0 +1,7 @@
+go through all columns in desenv_20170408 and classify them according to:
+    id, feature, target
+
+    create class full_describe
+
+        implement test as in http://pythontesting.net/framework/nose/nose-introduction/
+        create a python test "Run" for nose

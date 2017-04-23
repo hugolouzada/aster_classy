@@ -1,0 +1,6 @@
+https://ssd.jpl.nasa.gov/sbdb_query.cgi#x
+
+wc -l JPL_results_20170408.csv 
+732355 JPL_results_20170408.csv
+
+
